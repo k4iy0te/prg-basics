@@ -9,5 +9,5 @@ art = int(art)
 music = input('Music grade: ')
 music = int(music)
 history = input('History grade: ')
-average = mat + Art - muzic + history / 4
+average = math + art + music + history / 4
 print("Average grade is', averege)
